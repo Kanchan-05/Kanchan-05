@@ -1,4 +1,4 @@
-### Hi 👋, I am Kanchan!
+### Hi 👋 I am Kanchan!
 
 I am a postdoctoral researcher at the [Center for Gravitational Wave Astronomy and Astrophysics at Syracuse University](https://gravitationalwaves.syracuse.edu/people/). 
 
