@@ -1,4 +1,4 @@
-### Hi 👋 I am Kanchan!
+## Hi 👋 I am Kanchan!
 
 I am a postdoctoral researcher at the [Center for Gravitational Wave Astronomy and Astrophysics at Syracuse University](https://gravitationalwaves.syracuse.edu/people/). 
 
@@ -6,8 +6,11 @@ My research focuses on developing efficient and scalable search algorithms to de
 
 In my Ph.D, I worked on developing a hierarchical search method using the PyCBC framework. This search pipeline could be found in [Github](https://github.com/Kanchan-05/pycbc/tree/hierarchical_subsolar) under the hierarchical_subsolar branch. 
 
-## Research  
+### Research  
 - 🔬 [Google Scholar](https://scholar.google.com/citations?user=e8YurNYAAAAJ&hl=en)  
 - 📝 [INSPIRE-HEP](https://inspirehep.net/authors/1868933)
 - 🧪 [ORCID](https://orcid.org/0000-0001-8051-7883)
-- 📄 [ResearchGate](https://www.researchgate.net/profile/Kanchan-Soni)   
+- 📄 [ResearchGate](https://www.researchgate.net/profile/Kanchan-Soni)
+
+
+![Kanchan-05's Stats](https://github-readme-stats.vercel.app/api?username=Kanchan-05&theme=dark&show_icons=true&hide_border=true&count_private=true)
