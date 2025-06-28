@@ -13,6 +13,6 @@ In my Ph.D, I worked on developing a hierarchical search method using the PyCBC 
 - 📄 [ResearchGate](https://www.researchgate.net/profile/Kanchan-Soni)
 
 
-## [Website](https://kanchan-05.github.io/kanchansoni.github.io/index.html)
+[Website](https://kanchan-05.github.io/kanchansoni.github.io/index.html)
 
 ![Kanchan-05's Stats](https://github-readme-stats.vercel.app/api?username=Kanchan-05&theme=dark&show_icons=true&hide_border=true&count_private=true)
